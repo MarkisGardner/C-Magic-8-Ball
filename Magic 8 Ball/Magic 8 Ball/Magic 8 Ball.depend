@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657917388 source:e:\c-dev\c-programming\magic 8 ball\magic 8 ball\main.c
+	<stdio.h>
+	<stdlib.h>
+
