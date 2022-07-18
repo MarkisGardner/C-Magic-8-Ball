@@ -10,18 +10,17 @@ d) because of using malloc and realloc I had to learn to pass "char ***array" in
 me a couple hours to get past the learning curve on that one.  But, it was a good learning experience.\
 e) learning to use fgets.  Again we never asked for input from the user so this was interesting.  When hitting enter and expecting the length to be 0, I was 
 confused that it was 1 then I remembered that the enter key is \\n.\
-f) The hardest part was knowing to use (*array)[num_of_lines] instead of *array[num_of_lines].  I couldn't understand why I kept getting an error.  Again, those of
-you who have used malloc a lot would not have had any trouble with that.
+f) The hardest part was knowing to use (*array)[num_of_lines] instead of *array[num_of_lines].  I couldn't understand why I kept getting an error.  Again, those of you who have used malloc a lot would not have had any trouble with that.\
 
-There are two things I didn't do.
-a) Completely break things up into very small pieces.  One function was a little long but it didn't repeat anything so I was happy with it.
-b) Check to see if they sent arguements I was not expecting like k, z, a, etc....
+There are two things I didn't do.\
+a) Completely break things up into very small pieces.  One function was a little long but it didn't repeat anything so I was happy with it.\
+b) Check to see if they sent arguements I was not expecting like k, z, a, etc....\
 
-I hope you enjoyed my game as a learning experience to learn how to program C.
+I hope you enjoyed my game as a learning experience to learn how to program C.\
 
-To play
-argument h tell you how to play
-argument g good.txt will use only good manners to play the game
-argument b bad.txt will use only bad manners to play the game.
-if you use both g and b then it will randomly decide which one.
-to end the game just hit enter.
+To play\
+argument h tell you how to play\
+argument g good.txt will use only good manners to play the game.\
+argument b bad.txt will use only bad manners to play the game.\
+if you use both g and b then it will randomly decide which one.\
+to end the game just hit enter.\
