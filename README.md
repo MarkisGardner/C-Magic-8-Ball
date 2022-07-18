@@ -1,9 +1,9 @@
 # C-Magic-8-Ball
 Magic 8 Ball
 
-I created this game because it allowed me to learn and improve on 
+I created this game because it allowed me to learn and improve on \
 a) using malloc and realloc.  While I was a professional programmer for 8 years, I never needed to use malloc and realloc.  My programming was very specific and 
-we always allocated enough space at the beginning like with char array[50][50].  So, I was excited to learn and then use malloc and realloc in this program.
+we always allocated enough space at the beginning like with char array[50][50].  So, I was excited to learn and then use malloc and realloc in this program.\
 b) using parameters.  In the unix environment we used -a, -b, -.....  With this dos environment we don't use the -'s.  So, I came up with a different way to handle
 arguements with a parameter like -g good.txt where good.txt was filename for good replies.
 c) using random.  We never used random in my workplace, so it was a nice tidbit to add.
